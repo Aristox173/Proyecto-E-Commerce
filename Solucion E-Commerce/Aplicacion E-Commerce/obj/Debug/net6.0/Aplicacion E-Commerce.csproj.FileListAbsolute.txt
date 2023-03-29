@@ -1,0 +1,31 @@
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\appsettings.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.staticwebassets.runtime.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.exe
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.deps.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.runtimeconfig.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.dll
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\bin\Debug\net6.0\Aplicacion E-Commerce.pdb
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.AssemblyInfoInputs.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.AssemblyInfo.cs
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.RazorAssemblyInfo.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.RazorAssemblyInfo.cs
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.Aplicacion E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.build.Aplicacion E-Commerce.props
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aplicacion E-Commerce.props
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aplicacion E-Commerce.props
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\scopedcss\bundle\Aplicacion E-Commerce.styles.css
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\scopedcss\projectbundle\Aplicacion E-Commerce.bundle.scp.css
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.dll
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\refint\Aplicacion E-Commerce.dll
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.pdb
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\Aplicacion E-Commerce.genruntimeconfig.cache
+C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce\obj\Debug\net6.0\ref\Aplicacion E-Commerce.dll

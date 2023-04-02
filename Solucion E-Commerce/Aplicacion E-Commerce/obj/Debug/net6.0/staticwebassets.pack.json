@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Aplicacion E-Commerce.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\Imagenes\\LOGO 1.png",
+      "PackagePath": "staticwebassets\\Imagenes\\LOGO 1.png"
+    },
+    {
+      "Id": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\Imagenes\\LOGO 2.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\LOGO 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

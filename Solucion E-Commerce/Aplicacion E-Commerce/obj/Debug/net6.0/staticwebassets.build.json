@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HHxzdmPzBaLluSOLWxY4gtOw9q9luMoJeyasuN6NlrE=",
+  "Hash": "aSaqCY1jI/cy5uwuyiu8CJk+juADx5/8DKCM53MuxP8=",
   "Source": "Aplicacion E-Commerce",
   "BasePath": "_content/Aplicacion E-Commerce",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Aplicacion E-Commerce.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\css\\custom.css",
+      "SourceId": "Aplicacion E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\",
+      "BasePath": "_content/Aplicacion E-Commerce",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
       "Identity": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\css\\site.css",
       "SourceId": "Aplicacion E-Commerce",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\Imagenes\\LOGO 1.png",
+      "SourceId": "Aplicacion E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\",
+      "BasePath": "_content/Aplicacion E-Commerce",
+      "RelativePath": "Imagenes/LOGO 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\LOGO 1.png"
+    },
+    {
+      "Identity": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\Imagenes\\LOGO 2.jpg",
+      "SourceId": "Aplicacion E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\",
+      "BasePath": "_content/Aplicacion E-Commerce",
+      "RelativePath": "Imagenes/LOGO 2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\LOGO 2.jpg"
     },
     {
       "Identity": "C:\\Users\\juana\\Desktop\\GITHUB\\Proyecto-E-Commerce\\Solucion E-Commerce\\Aplicacion E-Commerce\\wwwroot\\js\\site.js",

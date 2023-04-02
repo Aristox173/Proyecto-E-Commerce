@@ -18,7 +18,47 @@ namespace Aplicacion_E_Commerce.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Productos()
+        {
+            return View();
+        }
+
+        public IActionResult Pedidos()
+        {
+            return View();
+        }
+
+        public IActionResult Clientes()
+        {
+            return View();
+        }
+
+        public IActionResult Inventario()
+        {
+            return View();
+        }
+
+        public IActionResult Promociones()
+        {
+            return View();
+        }
+
+        public IActionResult Envios()
+        {
+            return View();
+        }
+
+        public IActionResult Informes()
+        {
+            return View();
+        }
+
+        public IActionResult Configuracion()
+        {
+            return View();
+        }
+
+        public IActionResult Soporte()
         {
             return View();
         }

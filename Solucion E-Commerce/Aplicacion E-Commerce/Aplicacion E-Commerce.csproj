@@ -7,4 +7,8 @@
     <RootNamespace>Aplicacion_E_Commerce</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Imagenes\" />
+  </ItemGroup>
+
 </Project>

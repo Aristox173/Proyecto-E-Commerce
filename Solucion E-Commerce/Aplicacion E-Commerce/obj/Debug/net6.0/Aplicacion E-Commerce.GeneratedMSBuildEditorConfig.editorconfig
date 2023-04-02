@@ -16,12 +16,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\juana\Desktop\GITHUB\Proyecto-E-Commerce\Solucion E-Commerce\Aplicacion E-Commerce
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Clientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Configuracion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maWd1cmFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Envios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnZpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Informes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvcm1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Inventario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnZlbnRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Pedidos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZWRpZG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Promociones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9tb2Npb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Home/Soporte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb3BvcnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/juana/Desktop/GITHUB/Proyecto-E-Commerce/Solucion E-Commerce/Aplicacion E-Commerce/Views/Shared/Error.cshtml]
